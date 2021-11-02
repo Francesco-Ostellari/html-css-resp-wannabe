@@ -104,7 +104,7 @@ img {
   }
 
   #lezioni .row>.right  {
-     margin: 30px 0 0 0;
+    margin: 30px 0 0 0;
    }
 
   .row {
@@ -115,14 +115,13 @@ img {
   .container.grey {
     background-color: white;
   }
-
-   #steps .row>.central {
-     margin: 30px 0 30px 0;
-   }
-
-   #why .row>.first,
-   #why .row>.second,
-   #why .row>.third {
+  #steps .row>.central {
+    margin: 30px 0 30px 0;
+  }
+  
+  #why .row>.first,
+  #why .row>.second,
+  #why .row>.third {
     margin: 30px 0 0 0;
   }
 
