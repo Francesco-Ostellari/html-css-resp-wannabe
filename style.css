@@ -115,10 +115,11 @@ img {
   .container.grey {
     background-color: white;
   }
+  
   #steps .row>.central {
     margin: 30px 0 30px 0;
   }
-  
+
   #why .row>.first,
   #why .row>.second,
   #why .row>.third {
